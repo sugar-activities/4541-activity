@@ -1,0 +1,8 @@
+[Activity]
+name = Star Catcher
+activity_version = 32
+host_version = 1
+bundle_id = mulawa.StarCatcher
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
